@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi I'm Abudullahi👋
+### 👷‍♂️Full Stack Developer and Design Enthusiast
+I craft digital experiences for the web, blending technical precision with design aesthetics. When I'm not pushing code, you'll find me exploring virtual worlds through gaming.</br>
+#buildinginpublic [Twitter]https://x.com/codes_console</br>
+I write about stuff here [Dev.to]https://dev.to/classicthedemigod</br>
 
+![Abdullahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Classic-The-DemiGod&show_icons=true&theme=radical)
 <!--
 **Classic-The-Demigod/Classic-The-Demigod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
